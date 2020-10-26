@@ -1,0 +1,20 @@
+#footer{
+    background-color: black;
+    height: 237px;
+    width: 100%;
+}
+#footer li{
+    float: center;
+    width: 150px;
+    list-style: none;
+}
+#footer li a{
+    text-decoration: none;
+    color: #c4c7ca;
+}
+#footer ul{
+    margin:0;
+}
+#footer li + li{
+    margin-left: 40px;
+}
