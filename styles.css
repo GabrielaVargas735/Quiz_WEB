@@ -27,8 +27,11 @@ body{
     text-transform: uppercase;
     padding: 0;
 }
-#list li a + li a{
-    margin-left: 20px;
+#list li + li{
+    margin-left: 5px;
+}
+#list li + li a{
+    margin-left: -60px;
 }
 #list li a{
     text-decoration: none;
@@ -38,17 +41,21 @@ body{
     width: 100%;
     max-width: 100%;
 }
-#img img{
+.img img{
     width: 25%;
     height: 20%;
-    margin-left: 40px;
-    margin-right: 0;
+    /* position: relative; */
+    float: left;
+}
+.parrafo p{
+    /* position: absolute; */
 }
 #titulo{
     text-align: center;
     margin: 60px;
 }
 #box img{
+    margin-top: 10px;
     width: 100%;
 }
 #box2{
