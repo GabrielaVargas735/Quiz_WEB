@@ -65,42 +65,42 @@ h2{
     height: 38%;
     position: absolute;
     margin-left: 70px;
-    top: 900px;
+    top: 700px;
 }
 #barco2{
     width: 28%;
     height: 38%;
     position: absolute;
     margin-left: 70px;
-    top:1170px
+    top:990px
 }
 #sele1{
     width: 28%;
     height: 38%;
     position: absolute;
     margin-left:466px;
-    top: 900px;
+    top: 700px;
 }
 #sele2{
     width: 28%;
     height: 38%;
     position: absolute;
     margin-left:466px;
-    top: 1170px;
+    top: 990px;
 }
 #hotel1{
     width: 28%;
     height: 38%;
     position: absolute;
     margin-left: 860px;
-    top: 900px;
+    top: 700px;
 }
 #hotel2{
     width: 28%;
     height: 38%;
     position: absolute;
     margin-left: 860px;
-    top: 1170px;
+    top: 990px;
 }
 
 
@@ -123,7 +123,7 @@ h2{
     float: left;
     z-index: 1;
     position: absolute;
-    top: 1850px;
+    top: 1550px;
     margin-left: 250px;
 }
 #nav{
@@ -132,7 +132,7 @@ h2{
     margin-left: 650px;
     float: right;
     position: absolute;
-    top: 1680px;
+    top: 1400px;
 }
 #nav-info{
     text-align: left;
@@ -140,7 +140,7 @@ h2{
     position: absolute;
     float: right;
     margin-left: 650px;
-    top: 1750px;
+    top: 1470px;
 }
 
 
