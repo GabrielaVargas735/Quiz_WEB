@@ -4,8 +4,6 @@ body{
   margin: 0; 
   color: white;
 }
-
-
 /*Header*/
 #header{
     background-color: black;
@@ -41,15 +39,12 @@ body{
     margin-left: 50px;
     margin-top: 30px;
 }
-
 /*Img-Principal*/
 #img-principal img{
     width: 100%;
     height: 100%;
     margin: 0;
 }
-
-
 /*Img Paquetes*/
 h2{
     text-align: center;
@@ -102,8 +97,6 @@ h2{
     margin-left: 860px;
     top: 990px;
 }
-
-
 /*Info*/
 #palmeras img{
     width: 100%;
@@ -128,7 +121,6 @@ h2{
 }
 #nav{
     text-transform: uppercase;
-    /* text-align: left; */
     margin-left: 650px;
     float: right;
     position: absolute;
@@ -201,10 +193,6 @@ h2{
     top: 1120px;
     margin-left: 862px;
 }
-
-
-
-
 /*Footer*/
 #footer{
     background-color: #171717;
