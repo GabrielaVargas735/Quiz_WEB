@@ -1,38 +1,35 @@
+/*Header*/
 #header{
     background-color: black;
-    height: 105px;
-    margin: 0;
+    width: 1260px;
+    height: 100px;
 }
-#iconos{
-    width: 113px;
-    height: 40px;
-    padding-left: 100px;
-    padding-top: 25px;
+#iconos2{
+    width: 110px;
+    top:0;
+    float: left;
+    margin-left: 100px;
 }
-#list ul{
-    margin:0;
-}
-#list li{
-    float:right;
-    width: 150px;
-    list-style: none;
+#list2 li{
     text-transform: uppercase;
+    list-style: none;
+    margin: 0;
+    float: left;
+    margin-left: 600px;
+    margin-top: 35px;
+}
+#list2 li a{
+    text-decoration: none;
+    color:aliceblue;
+}
+#list2 li + li{
+    margin-left: 40px;
+}
+#list2 ul{
+    margin: 0;
     padding: 0;
 }
-#list li a + li a{
-    margin-left: 20px;
-}
-#list li a{
-    text-decoration: none;
-    color: white;
-}
-#portada img{
-    width: 100%;
-    max-width: 100%;
-}
-#img img{
-    width: 25%;
-    height: 20%;
-    margin-left: 40px;
-    margin-right: 0;
+#facebook1 img{
+    margin-left: 50px;
+    margin-top: 30px;
 }

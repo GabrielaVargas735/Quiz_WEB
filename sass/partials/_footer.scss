@@ -1,20 +1,32 @@
+/*Footer*/
 #footer{
-    background-color: black;
-    height: 237px;
-    width: 100%;
+    background-color: #171717;
+    height: 227px;
+    width: 1261px;
 }
-#footer li{
-    float: center;
-    width: 150px;
+#list li{
+    text-transform: uppercase;
     list-style: none;
+    float: left;
 }
-#footer li a{
+#list li a{
     text-decoration: none;
-    color: #c4c7ca;
+    color: white;
+    margin-left: 60px;
+    width: 50px;
 }
-#footer ul{
-    margin:0;
+#list li + li{
+    margin-left: 0px;
 }
-#footer li + li{
-    margin-left: 40px;
+#list ul{
+    margin: 0;
+    padding: 0;
+    margin-left: 300px;
+    padding-top: 35px;
+}
+#facebook img{
+    margin-left: 600px;
+}
+#copyright{
+    margin-left: 390px;
 }
